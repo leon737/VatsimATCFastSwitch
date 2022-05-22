@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VatsimATCFastSwitch", "VatsimATCFastSwitch\VatsimATCFastSwitch.csproj", "{D5BEABB6-CF08-4313-A760-BB2FAB712C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VatsimConnector", "VatsimConnector\VatsimConnector.csproj", "{9D6DD3AA-228F-4E68-BC79-62D062157BE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimConnector", "SimConnector\SimConnector.csproj", "{32727565-ABA1-4414-A539-1AE5D15ED17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5BEABB6-CF08-4313-A760-BB2FAB712C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BEABB6-CF08-4313-A760-BB2FAB712C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BEABB6-CF08-4313-A760-BB2FAB712C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BEABB6-CF08-4313-A760-BB2FAB712C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D6DD3AA-228F-4E68-BC79-62D062157BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6DD3AA-228F-4E68-BC79-62D062157BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6DD3AA-228F-4E68-BC79-62D062157BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6DD3AA-228F-4E68-BC79-62D062157BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32727565-ABA1-4414-A539-1AE5D15ED17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32727565-ABA1-4414-A539-1AE5D15ED17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32727565-ABA1-4414-A539-1AE5D15ED17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32727565-ABA1-4414-A539-1AE5D15ED17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA66C8F-F22D-4B66-962E-2F3B5F4A13EE}
+	EndGlobalSection
+EndGlobal
